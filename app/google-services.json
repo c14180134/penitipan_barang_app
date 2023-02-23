@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "392733774155",
+    "project_id": "coba-qrcode-fcddf",
+    "storage_bucket": "coba-qrcode-fcddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392733774155:android:3a1fe5b44bae12541058ce",
+        "android_client_info": {
+          "package_name": "com.example.cobaqrcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392733774155-bubefct9hd51m908v8c9p5p5pemgme9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMLPI_e9Taj299qSj7iEtf_tpCvA05VAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392733774155-bubefct9hd51m908v8c9p5p5pemgme9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392733774155:android:b663711ed2948f7f1058ce",
+        "android_client_info": {
+          "package_name": "com.example.penitipanbarang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392733774155-bubefct9hd51m908v8c9p5p5pemgme9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMLPI_e9Taj299qSj7iEtf_tpCvA05VAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392733774155-bubefct9hd51m908v8c9p5p5pemgme9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
